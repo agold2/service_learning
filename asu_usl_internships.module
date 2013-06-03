@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Service Learning feature.
+ */
+
+include_once 'asu_usl_internships.features.inc';
